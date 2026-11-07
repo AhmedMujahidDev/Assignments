@@ -20,7 +20,7 @@ Create a `.env` file in the project root:
 
 ```dotenv
 PORT=4000
-MONGO_URI=mongodb://127.0.0.1:27017/practice-server
+MONGO_URI=mogo db url
 JWT_SECRET=replace-with-a-random-secret-at-least-32-characters-long
 OTP_SECRET=replace-with-a-different-random-secret-at-least-32-characters-long
 
